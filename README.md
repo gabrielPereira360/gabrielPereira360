@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/seu-usuário-aqui/gabrielPereira360/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielPereira360/gabrielPereira360/blob/output/github-contribution-grid-snake.svg)
 
 # Olá, me chamo Gabriel! 
 ## Bem vindo ao meu pequeno laboratório aqui no GitHub 👋
