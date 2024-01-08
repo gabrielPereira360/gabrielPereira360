@@ -6,7 +6,7 @@
 -  Atualmente estou trabalhando como Designer na Empresa: Photo Vip - Impressões fotográficas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" alt="Logo do Photoshop"/>
 
-## 💡 Constantemente estou apredendo sobre desenvolvimento Front-end, buscando aprimorar minhas habilidades nas seguintes tecnologias:
+## 💡 Ferramentas em constante aprendizado:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo do Html 5" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Logo do Css3" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do Javascript" width="50"/>
 
         
@@ -24,3 +24,5 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielPereira360&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielPereira360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/sgabrielPereira360/gabrielPereira360/blob/output/github-contribution-grid-snake.svg)
